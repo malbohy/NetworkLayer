@@ -7,6 +7,6 @@
 
 import Foundation
 
-struct EmptyModel: Codable {
+public struct EmptyModel: Codable {
     
 }

@@ -1,6 +1,6 @@
 import UIKit
 
-class ExecuteTask {
+public class ExecuteTask {
     
     class func execute(url: String ,
                        httpMethod: HTTPMethodType ,
