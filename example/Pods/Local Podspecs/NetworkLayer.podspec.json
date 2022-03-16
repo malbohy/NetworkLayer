@@ -1,0 +1,28 @@
+{
+  "name": "NetworkLayer",
+  "version": "0.1.0",
+  "summary": "simple NetworkLayer",
+  "description": "this pod should be used to add NetworkLayer for Application To Be Used Accross Apps",
+  "homepage": "https://github.com/malbohy/NetworkLayer",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mohamed elbohy": "malbohy@gmail.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/malbohy/NetworkLayer",
+    "tag": "0.1.0"
+  },
+  "source_files": "NetworkLayer/**/*",
+  "subspecs": [
+    {
+      "name": "NetworkLayer",
+      "source_files": "NetworkLayer/NetworkLayer/**/*"
+    }
+  ]
+}

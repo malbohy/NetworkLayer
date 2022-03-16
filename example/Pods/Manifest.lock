@@ -1,0 +1,18 @@
+PODS:
+  - NetworkLayer (0.1.0):
+    - NetworkLayer/NetworkLayer (= 0.1.0)
+  - NetworkLayer/NetworkLayer (0.1.0)
+
+DEPENDENCIES:
+  - NetworkLayer (from `../`)
+
+EXTERNAL SOURCES:
+  NetworkLayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NetworkLayer: 063437ecb0eda48361f12924afe53035a7717169
+
+PODFILE CHECKSUM: 13ff89b167b2a6a66294e31c20ca8dd87290c2e5
+
+COCOAPODS: 1.11.2

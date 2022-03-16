@@ -1,0 +1,25 @@
+{
+  "name": "AccessabilityIdExtenstions",
+  "version": "0.0.1",
+  "summary": "simple extenstion for adding accessability id for alert actions",
+  "description": "this pod should be used to add accessability id for alert actions when needed to provide the testing team a way to auomate the testing process",
+  "homepage": "https://nagwa-limited@dev.azure.com/nagwa-limited/Nagwa-Libraries-IOS/_git/Extenstions",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mohamed elbohy": "malbohy@gmail.com"
+  },
+  "source": {
+    "git": "https://nagwa-limited@dev.azure.com/nagwa-limited/Nagwa-Libraries-IOS/_git/Extenstions",
+    "tag": "0.0.1"
+  },
+  "source_files": "AccessabilityId/AccessabilityId/**/*",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}

@@ -1,0 +1,27 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'example' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for example
+
+  pod 'NetworkLayer', :path => '../'
+#  pod 'Extenstions/AccessabilityId', :path => '../'
+#  pod 'Extenstions/UIView', :path => '../'
+#  pod 'Extenstions/String', :path => '../'
+#  pod 'Extenstions/Bundle', :path => '../'
+#  pod 'Extenstions/Encodable', :path => '../'
+#  pod 'Extenstions/UILabel', :path => '../'
+#  pod 'Extenstions/Float', :path => '../'
+#  pod 'Extenstions/UIViewController', :path => '../'
+#  pod 'Extenstions/NSMutableAttributedString', :path => '../'
+#  pod 'Extenstions/Decodable', :path => '../'
+#  pod 'Extenstions/UITableView', :path => '../'
+#  pod 'Extenstions/UIDevice', :path => '../'
+#  pod 'Extenstions/FileManager', :path => '../'
+#  pod 'Extenstions/UIScrollView', :path => '../'
+#  pod 'Extenstions/UIImage', :path => '../'
+  
+end
